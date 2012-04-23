@@ -3,11 +3,10 @@ usb-ledstrip-driver
 
 Boost USB 5V to 12/24V and connect LED strip 
 
-With the usb ledstrip driver you have:
-
+With this usb ledstrip driver you have:
 - Small, only 9x37 mm
 - High Efficiency boost driver: 81%
-- Full I/O control with arduino -  Attiny45/85 embedded cpu
+- Full I/O control with arduino API-  Attiny45/85 embedded cpu
 - Max 24V ledstrip and ~300mA forward current.
 - PWM for LED Control 
 
