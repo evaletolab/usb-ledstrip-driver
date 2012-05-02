@@ -26,6 +26,6 @@ http://www.flickr.com/photos/10367069@N00/7135938581/in/set-72157629949644791/li
 **THIS IS ALPHA SOFTWARE/HARDWARE AND SHOULD BE TREATED ACCORDINGLY.**
 **IT IS FUN TO GET RUNNING, BUT EXPECT THINGS TO BE BROKEN.**
 
-[1] http://www.linear.com/product/LT3465
-[2] http://www.obdev.at/products/vusb/ 
-[3] http://www.linear.com/product/LT3591
+[1]: http://www.linear.com/product/LT3465
+[2]: http://www.obdev.at/products/vusb/ 
+[3]: http://www.linear.com/product/LT3591
