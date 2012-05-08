@@ -11,8 +11,8 @@ This simple device boost usb power to 24V and also,
 - PWM for LED Control 
 
 ## Usual shot,
-* http://www.flickr.com/photos/10367069@N00/7105260293/in/set-72157629949644791/lightbox/
 * http://www.flickr.com/photos/10367069@N00/7135938581/in/set-72157629949644791/lightbox/
+* http://www.flickr.com/photos/10367069@N00/7105260293/in/set-72157629949644791/lightbox/
 
 ## Current developpement:
 - Command the Ledstrip from USB [Virtual USB (V-USB)][2]
