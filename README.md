@@ -7,7 +7,8 @@ This simple device boost usb power to 24V and also,
 - High Efficiency boost driver [LT3465][1] 81% at (TODO)
 - quiescent current ?? (TODO)
 - Control lighting with Attiny45/85 and arduino API
-- Ideal 24V ledstrip and ~300mA forward current.
+- Ideal 24V ledstrip and ~300mA forward current (**~7W** lighting).
+ - The best LED efficiency is about 700LM for 7W with 3200K color 
 - PWM for LED Control 
 
 ## Usual shot,
@@ -19,7 +20,7 @@ This simple device boost usb power to 24V and also,
 - Boot loader from USB
 
 ## Long term,
-- upgrade the driver with [LT3591][3] and load 24V **800mA** !!
+- upgrade the driver with [LT3591][3] and load 24V **~800mA** (**10W** - USB limitation)!!
 
 ## Known bugs
  
