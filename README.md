@@ -8,7 +8,7 @@ This simple device boost usb power to 24V and also,
 - quiescent current ?? (TODO)
 - Control lighting with Attiny45/85 and arduino API
 - Ideal 24V ledstrip and ~300mA forward current (**~7W** lighting).
- - The best LED efficiency is about 700LM for 7W with 3200K color 
+ - The best LED efficiency is about 700LM for 7W with 3200K color temperature (Warm White)!!
 - PWM for LED Control 
 
 ## Usual shot,
