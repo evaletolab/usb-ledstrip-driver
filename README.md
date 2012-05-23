@@ -7,9 +7,10 @@ This simple device boost usb power to 24V and also,
 - High Efficiency boost driver [LT3465][1] 81% at (TODO)
 - quiescent current ?? (TODO)
 - Control lighting with Attiny45/85 and arduino API
-- Ideal 24V ledstrip and ~350mA switch current (**~2W** lighting).
+- Ideal 24V ledstrip with ~350mA switch current for (**~2W** lighting).
  - note: The best LED efficiency is about 200LM for 2W with 3200K color temperature (Warm White)!!
 - PWM for LED Control 
+- IL=1/RL*(0.2-0.026*LN(EXP(0.2/0.026)/EXP(5/0.13)+1))
 
 ## Usual shot,
 * http://www.flickr.com/photos/10367069@N00/7135938581/in/set-72157629949644791/lightbox/
