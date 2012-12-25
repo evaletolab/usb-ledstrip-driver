@@ -18,7 +18,7 @@ This simple device boost usb power to 24V and also,
 
 ## Current developpement:
 - Command the Ledstrip from USB [Virtual USB (V-USB)][2]
-- Integrate [optiboot](http://code.google.com/p/optiboot/), a small boot loader from USB
+- Integrate [optiboot - a small boot loader -](http://code.google.com/p/optiboot/) and USB
 ![](http://farm9.staticflickr.com/8502/8307060676_72d5e40d2a_b.jpg)
 
 ## Long term,
