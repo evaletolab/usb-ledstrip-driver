@@ -4,12 +4,12 @@ Connect a real light to your laptop without the need of external power.
 
 This simple device boost usb power to 24V and also,
 - Small size, only 9x37 mm
-- High Efficiency boost driver [LT3465][1] 81% at (TODO)
-- quiescent current ?? (TODO)
-- Control lighting with Attiny45/85 and arduino API
-- Ideal 24V ledstrip with ~66mA (RL=3[Ohms])switch current for (**~1.58W** lighting).
+- High Efficiency boost driver [LT3465][1] 81% at **(TODO)**
+- quiescent current ?? **(TODO)**
+- Control lighting with Attiny45/85 and arduino API **(TODO)**
+- Ideal 24V ledstrip with ~66mA (RL=3[Ohms])switch current for ( **~1.58W** lighting).
  - note: The best LED efficiency is about 200LM for 2W with 3200K color temperature (Warm White)!!
-- PWM for LED Control 
+- PWM for LED Control **(TODO)**
 - IL=1/RL*(0.2-0.026*LN(EXP(0.2/0.026)/EXP(5/0.13)+1))
 
 ## Usual shot,
