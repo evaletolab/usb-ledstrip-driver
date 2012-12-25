@@ -13,8 +13,8 @@ This simple device boost usb power to 24V and also,
 - IL=1/RL*(0.2-0.026*LN(EXP(0.2/0.026)/EXP(5/0.13)+1))
 
 ## Usual shot,
-[![](http://farm9.staticflickr.com/8018/7257815024_a1fe84bef0_c.jpg)]
-[![](http://farm9.staticflickr.com/8005/7105260293_785ed5d694_c.jpg)]
+![](http://farm9.staticflickr.com/8018/7257815024_a1fe84bef0_c.jpg)
+![](http://farm9.staticflickr.com/8005/7105260293_785ed5d694_c.jpg)
 
 ## Current developpement:
 - Command the Ledstrip from USB [Virtual USB (V-USB)][2]
