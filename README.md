@@ -19,6 +19,7 @@ This simple device boost usb power to 24V and also,
 ## Current developpement:
 - Command the Ledstrip from USB [Virtual USB (V-USB)][2]
 - Boot loader from USB
+![](http://farm9.staticflickr.com/8502/8307060676_72d5e40d2a_b.jpg)
 
 ## Long term,
 - upgrade the driver with [LT3591][3], **~800mA** SWITCH current at USB line, load 24V  (**4W**)!!
